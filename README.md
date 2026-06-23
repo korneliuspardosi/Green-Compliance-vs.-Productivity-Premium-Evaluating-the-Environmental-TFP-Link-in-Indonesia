@@ -40,9 +40,8 @@ ln TFP_i = α₀ + α₁ GreenIndex_i + X'_i η + γ_s + δ_p + u_i
 ## Repository Structure
 
 ```
-├── scripts/          # R or Stata scripts for data cleaning, TFP estimation, and Stage 2 regression
-├── paper/            # Manuscript (LaTeX source and PDF)
-└── data/             # IBS 2021 firm-level dataset (BPS)
+├── Notebook/          # Python for data cleaning, TFP estimation, and Stage 2 regression
+├── Paper/            # Manuscript (LaTeX source and PDF)
 ```
 
 ---
